@@ -8,8 +8,8 @@ Its purpose was to study the evolution of the interest in the virus vulnerabilit
 
 The elements of the dataset (“dataset.csv”) are detailed as follows:
 
--status_id refers to the tweet status id (Valid, Mismatched, Missing, Other)
--status_date indicates the date the tweet was tweeted
+- status_id refers to the tweet status id (Valid, Mismatched, Missing, Other)
+- status_date indicates the date the tweet was tweeted
 text contains the text of the tweet
 favourite_count indicates the number of times the tweet was liked
 retweet_count refers to the number of times the tweet was retweeted
