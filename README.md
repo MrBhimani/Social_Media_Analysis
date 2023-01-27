@@ -10,17 +10,16 @@ The elements of the dataset (“dataset.csv”) are detailed as follows:
 
 - status_id refers to the tweet status id (Valid, Mismatched, Missing, Other)
 - status_date indicates the date the tweet was tweeted
-text contains the text of the tweet
-favourite_count indicates the number of times the tweet was liked
-retweet_count refers to the number of times the tweet was retweeted
-user_name is the ID of the user who posted the tweet
-screen_name indicates the user Twitter handle (@name)
-user_follower_count is the number of follower of the user  who posted the tweet
-user_friends_count is the number of users the poster follows (friends)  who posted the tweet
-user_created_date refers to the date the user account was created
-user_location indicates the user location
-source is the source of tweet (Web App, Android, iPhone, etc.)
-
+- text contains the text of the tweet
+- favourite_count indicates the number of times the tweet was liked
+- retweet_count refers to the number of times the tweet was retweeted
+- user_name is the ID of the user who posted the tweet
+- screen_name indicates the user Twitter handle (@name)
+- user_follower_count is the number of follower of the user  who posted the tweet
+- user_friends_count is the number of users the poster follows (friends)  who posted the tweet
+- user_created_date refers to the date the user account was created
+- user_location indicates the user location
+- source is the source of tweet (Web App, Android, iPhone, etc.)
 
 The goal is to provide us with an exploratory analysis of the dataset and meaningful insights about the experimentation. 
 
